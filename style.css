@@ -253,6 +253,7 @@ header {
 
 .intro__img {
     box-shadow: var(--bs);
+    border-radius: 75%;
 }
 
 .section__subtitle--intro {
@@ -347,6 +348,7 @@ header {
 
 .about-me__img {
     box-shadow: var(--bs);
+    border-radius: 75%;
 }
 
 @media (min-width: 600px) {
